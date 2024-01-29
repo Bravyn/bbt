@@ -11,6 +11,6 @@ def bbt():
 
     st.success("Reason for surgery: **Sinus Problems.**")
     st.info("Estimated risk level: **Tiny.**")
-    
+    st.info("Person being operated on: {}".format(family[1]))
 
 bbt()
