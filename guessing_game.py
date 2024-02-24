@@ -5,7 +5,7 @@ def number_guessing_game():
     attempts = 0
 
     while True:
-        guess = int(input("Guess the number (Hint: It is between 0 - 100)"))
+        guess = int(input("Guess the number (Hint: It is between 0 - 100)\n"))
         attempts += 1
         if guess < number:
             print("Too low, try again")
