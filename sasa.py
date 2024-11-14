@@ -9,7 +9,5 @@ def atom_definition():
 
 def elements():
     twenty_chemical_elements = [
-        
-
     ]
 

@@ -1,0 +1,42 @@
+
+
+Caption                      : 
+Description                  : 
+Name                         : 
+Frequency_Object             : 0
+Frequency_PerfTime           : 10000000
+Frequency_Sys100NS           : 10000000
+Timestamp_Object             : 0
+Timestamp_PerfTime           : 646768075262
+Timestamp_Sys100NS           : 133760550012530000
+MessagesOutboundErrors       : 0
+MessagesPersec               : 2881
+MessagesReceivedErrors       : 0
+MessagesReceivedPersec       : 989
+MessagesSentPersec           : 1892
+ReceivedAddressMask          : 0
+ReceivedAddressMaskReply     : 0
+ReceivedDestUnreachable      : 761
+ReceivedEchoPersec           : 2
+ReceivedEchoReplyPersec      : 226
+ReceivedParameterProblem     : 0
+ReceivedRedirectPersec       : 0
+ReceivedSourceQuench         : 0
+ReceivedTimeExceeded         : 0
+ReceivedTimestampPersec      : 0
+ReceivedTimestampReplyPersec : 0
+SentAddressMask              : 0
+SentAddressMaskReply         : 0
+SentDestinationUnreachable   : 1662
+SentEchoPersec               : 230
+SentEchoReplyPersec          : 0
+SentParameterProblem         : 0
+SentRedirectPersec           : 0
+SentSourceQuench             : 0
+SentTimeExceeded             : 0
+SentTimestampPersec          : 0
+SentTimestampReplyPersec     : 0
+PSComputerName               : 
+
+
+
